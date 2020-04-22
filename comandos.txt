@@ -1,0 +1,2 @@
+- iniciar o servidor do angular:
+ng serve --open
